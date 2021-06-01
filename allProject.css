@@ -1,0 +1,18 @@
+.navbar-nav a{
+  color: white !important;
+  margin-left: 50px !important;
+  margin-bottom: 3px !important;
+  margin-top: 7px !important;
+  
+}
+
+.navbar-brand{
+  color: white !important;
+  margin-top: 7px !important;
+  
+
+}
+
+.allCards{
+  display: inline;
+}

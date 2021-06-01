@@ -1,0 +1,30 @@
+
+
+.navbar-nav a{
+  color: white !important;
+  margin-left: 50px !important;
+  margin-bottom: 3px !important;
+  margin-top: 7px !important;
+}
+
+.navbar-brand{
+  color: white !important;
+  margin-top: 7px !important;
+
+}
+
+#aboutmepic{
+  width: 550px;
+  height: 512px;
+}
+
+.bio{
+  position: absolute;
+  top: 20%;
+  widows: 100%;
+  left: 50%;
+  right: 5.5%;
+  font-size: 20px;
+  text-align: justify;
+}
+

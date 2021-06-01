@@ -1,0 +1,64 @@
+body{
+  background-image: url(C:\Users\kanak\OneDrive\Desktop\website\backgroundpic.jpg) !important;
+}
+
+
+.navbar-nav a{
+  color: white !important;
+  margin-left: 50px !important;
+  margin-bottom: 3px !important;
+  margin-top: 7px !important;
+  
+}
+
+.navbar-brand{
+  color: white !important;
+  margin-top: 7px !important;
+  background-image: url(C:\Users\kanak\OneDrive\Desktop\website\backgroundpic.jpg) !important;
+
+}
+
+#BP{
+  /*filter: blur(1.5px);*/
+}
+
+.banner{
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.banner img{
+  width: 100%;
+}
+
+.heading{
+  color: white;
+  position: absolute;
+  top: 10%;
+  widows: 100%;
+  left: 40%;
+  font-size: 50px;
+  
+  
+}
+
+.heading1{
+  color: white;
+  position: absolute;
+  top: 30%;
+  widows: 100%;
+  left: 32%;
+  font-size: 50px;
+  
+}
+
+.heading2{
+  color: white;
+  position: absolute;
+  top: 50%;
+  widows: 100%;
+  left: 24%;
+  font-size: 50px;
+  
+}

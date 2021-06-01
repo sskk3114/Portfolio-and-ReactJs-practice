@@ -1,0 +1,72 @@
+
+.navbar-nav a{
+  color: white !important;
+  margin-left: 50px !important;
+  margin-bottom: 3px !important;
+  margin-top: 7px !important;
+}
+
+.navbar-brand{
+  color: white !important;
+  margin-top: 7px !important;
+
+}
+
+.main h1{
+  margin-left: 580px;
+  margin-top: 50px;
+}
+
+#logo {
+  display: inline-block;
+  margin: 15px; /* margin: 20px was off */
+  margin-left: 20%;
+  margin-top: 5%;
+  height: 60px;
+  width: auto; /* correct proportions to specified height */
+  border-radius: 0; /* makes it a circle */
+  
+}
+
+#logo1 {
+  display: inline-block;
+  margin: 15px; /* margin: 20px was off */
+  margin-left: 21%;
+  margin-top: 5%;
+  height: 60px;
+  width: auto; /* correct proportions to specified height */
+  border-radius: 0; /* makes it a circle */
+}
+
+#logo2 {
+  display: inline-block;
+  margin: 15px; /* margin: 20px was off */
+  margin-left: 20%;
+  margin-top: 5%;
+  height: 60px;
+  width: auto; /* correct proportions to specified height */
+  border-radius: 0; /* makes it a circle */
+}
+
+.list1 ul {
+  list-style-type: none;
+  position: absolute;
+  text-align: center;
+  margin-left: 13%;
+}
+
+.list2 ul {
+  list-style-type: none;
+  position: absolute;
+  text-align: center;
+  margin-left: 42%;
+}
+
+
+.list3 ul {
+  list-style-type: none;
+  position: absolute;
+  text-align: center;
+  margin-left: 68%; 
+}
+
